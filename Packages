@@ -74,4 +74,28 @@ Section: Tweaks
 Depends: mobilesubstrate
 Maintainer: Giang Vip
 
+Package: com.giangqn.filza
+Name: Filza File Manager
+Version: 3.6.4
+Architecture: iphoneos-arm
+Filename: ./debs/filza.deb
+SHA1:a7d13d31176003cdc14b4a0c4bef093b2b1384f9
+SHA256:6d86f02ea516f83ba9618d644162f56c48f496bc6f5e4d704c80aac3a840741a
+Size:12394400
+MD5sum:f1d0f5f504514791071b9efe5f6bcb7a
+Description: Giang Vip Làng Game Quảng Ninh
+Author: Giang Vip
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Priority: optional
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Installed-Size: 27512
+dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Maintainer: Giang Vip
+
 
