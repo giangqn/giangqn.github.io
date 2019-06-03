@@ -41,7 +41,7 @@ Description: Giang Vip Làng Game Quảng Ninh
 Author: Giang Vip
 Section: Tweaks
 Depends: firmware (>=4.0)
-Pre-Depends: apt, findutls, shell-cmds
+Pre-Depends: apt, findutils, shell-cmds
 Maintainer: Giang Vip
 
 Package: com.giangqn.hpfaketweak
