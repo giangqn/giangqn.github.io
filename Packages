@@ -28,4 +28,50 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Giang Vip
 
+Package: com.giangqn.icleanpro
+Name: iCleaner Pro
+Version: 7.6.1
+Architecture: iphoneos-arm
+Filename: ./debs/icleanpro.deb
+SHA1:11393ed422210f07de63adbdf6f561f8ae3be2a3
+SHA256:d0be9485be36ffbb81225c7903a209eb2c68fa1f6d5b03c5a202e980bcbf8db1
+Size:5134982
+MD5sum:6d5eedf1d5b4d1b45a0ce895b8c9017e
+Description: Giang Vip Làng Game Quảng Ninh
+Author: Giang Vip
+Section: Tweaks
+Depends: firmware (>=4.0)
+Pre-Depends: apt, findutls, shell-cmds
+Maintainer: Giang Vip
+
+Package: com.giangqn.hpfaketweak
+Name: Hpfaketweak
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/hpfaketweak.deb
+SHA1:fd6d1cb77d227c1cf808a42413d91d0f71aeb507
+SHA256:4830c4b2ed3fa7408a0e678bba09782645cd0e5d78ab5a8356bde22c83f339b0
+Size:85744
+MD5sum:9758f8dc05c6cb29ece7ed73da16590d
+Description: Giang Vip Làng Game Quảng Ninh
+Author: Giang Vip
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: Giang Vip
+
+Package: com.giangqn.mobileconfig
+Name: mobileconfig
+Version: 2.3
+Architecture: iphoneos-arm
+Filename: ./debs/mobileconfig.deb
+SHA1:fd6d1cb77d227c1cf808a42413d91d0f71aeb507
+SHA256:4830c4b2ed3fa7408a0e678bba09782645cd0e5d78ab5a8356bde22c83f339b0
+Size:85744
+MD5sum:9758f8dc05c6cb29ece7ed73da16590d
+Description: Giang Vip Làng Game Quảng Ninh
+Author: Giang Vip
+Section: Tweaks
+Depends: mobilesubstrate
+Maintainer: Giang Vip
+
 
