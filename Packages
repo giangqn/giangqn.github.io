@@ -99,3 +99,22 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 Maintainer: Giang Vip
 
 
+Package: com.giangqn.icleanpro11
+Name: iCleaner Pro (ios11-12)
+Version: 7.7.5
+Architecture: iphoneos-arm
+Filename: ./debs/icleanpro11.deb
+SHA1:c24a8a2b09dee9b8ecef614c39ebe9397cd4b8a5
+SHA256:c7d9d66c1503de13a0622a16308b5c29e5b494249556a8ba86f385bab022484c
+Size:9921708
+MD5sum:81ddc46b529bcb88784cef617f59b239
+Description: Giang Vip Làng Game Quảng Ninh.
+Author: Giang Vip
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Pre-Depends: apt, findutils, shell-cmds
+Maintainer: Giang Vip
