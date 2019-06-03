@@ -1,0 +1,31 @@
+Package: com.giangqn.vinapgame
+Name: Ví Nạp Giang Vip
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/vinapgame.deb
+SHA1:35ec891a8b890ff5929286cad3972ecdd85105c9
+SHA256:efff1933079f09c8b0f02739816e1de471732496851101e216015d48612e53d3
+Size:82678
+MD5sum:f3855aa4659b0539f7a67981cc48db7c
+Description: Giang Vip Làng Game Quảng Ninh
+Author: Giang Vip
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Giang Vip
+
+Package: com.giangqn.vixagame
+Name: Ví Xả Giang Vip
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/vixagame.deb
+SHA1:1a6531f62d4c35199abc98aebabfd7680a17464e
+SHA256:cae04c386185e099e3190c72ae8cf0a960efd68e490df52e2183eabc8b439999
+Size:72286
+MD5sum:e8aed953585217c2e25b294dd767de50
+Description: Giang Vip Làng Game Quảng Ninh
+Author: Giang Vip
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: Giang Vip
+
+
