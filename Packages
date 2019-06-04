@@ -28,22 +28,6 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Giang Vip
 
-Package: com.giangqn.icleanpro
-Name: iCleaner Pro
-Version: 7.6.1
-Architecture: iphoneos-arm
-Filename: ./debs/icleanpro.deb
-SHA1:11393ed422210f07de63adbdf6f561f8ae3be2a3
-SHA256:d0be9485be36ffbb81225c7903a209eb2c68fa1f6d5b03c5a202e980bcbf8db1
-Size:5134982
-MD5sum:6d5eedf1d5b4d1b45a0ce895b8c9017e
-Description: Giang Vip Làng Game Quảng Ninh.
-Author: Giang Vip
-Section: Tweaks
-Depends: firmware (>=4.0)
-Pre-Depends: apt, findutils, shell-cmds
-Maintainer: Giang Vip
-
 Package: com.giangqn.hpfaketweak
 Name: Hpfaketweak
 Version: 2.0
@@ -118,3 +102,24 @@ Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
 Pre-Depends: apt, findutils, shell-cmds
 Maintainer: Giang Vip
+
+Package: com.giangqn.icleanerpro10
+Name: iCleaner Pro (ios8-ios10)
+Version: 7.6.2
+Architecture: iphoneos-arm
+Filename: ./debs/icleanerpro10.deb
+SHA1:3d598b59fe4d943249c787273d5733e5c594ec0b
+SHA256:9aa3597e0f1cbfd073481501f0e484c9ff58d4d1baf58500da7de932b5d6064f
+Size:5133578
+MD5sum:0973bef55abeac7b24feb3f5124bcec2
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
