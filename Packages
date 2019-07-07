@@ -33,10 +33,10 @@ Name: Hpfaketweak
 Version: 2.0
 Architecture: iphoneos-arm
 Filename: ./debs/hpfaketweak.deb
-SHA1:fd6d1cb77d227c1cf808a42413d91d0f71aeb507
-SHA256:4830c4b2ed3fa7408a0e678bba09782645cd0e5d78ab5a8356bde22c83f339b0
-Size:85744
-MD5sum:9758f8dc05c6cb29ece7ed73da16590d
+SHA1:2d8af022a3520cf41cc06ef54e12b0eed1103920
+SHA256:c14a80437509d506c6b94779cb17585134845954c6ffaa6378fbc79c5e4f5908
+Size:85746
+MD5sum:52a04b61e9ade454092586374bb27543
 Description: Giang Vip Làng Game Quảng Ninh
 Author: Giang Vip
 Section: Tweaks
@@ -45,13 +45,13 @@ Maintainer: Giang Vip
 
 Package: com.giangqn.mobileconfig
 Name: mobileconfig
-Version: 2.3
+Version: 2.0
 Architecture: iphoneos-arm
 Filename: ./debs/mobileconfig.deb
-SHA1:fd6d1cb77d227c1cf808a42413d91d0f71aeb507
-SHA256:4830c4b2ed3fa7408a0e678bba09782645cd0e5d78ab5a8356bde22c83f339b0
-Size:85744
-MD5sum:9758f8dc05c6cb29ece7ed73da16590d
+SHA1:d5b4f03ef10cd9bbdf7fc09ea890bd7e4b53efb1
+SHA256:b08b7641b054cd12c849d3279efe93272c00123888051a5be54371c16ef74f29
+Size:16206
+MD5sum:3a32ac69179eaad3e37235bd33aaf5f9
 Description: Giang Vip Làng Game Quảng Ninh
 Author: Giang Vip
 Section: Tweaks
