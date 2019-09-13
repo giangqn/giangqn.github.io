@@ -123,3 +123,27 @@ Depends: firmware (>= 4.0)
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Icon: file:///Applications/iCleaner.app/Icon.png
+
+
+Package: com.giangqn.locationhandle
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: org.thebigboss.locationchangerx, org.thebigboss.locationfaker9, org.thebigboss.routefaker
+Name: LocationHandle
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/locationhandle.deb
+MD5sum:8efba8b04627beb0abcf19c8482a3141
+SHA1:837cb32526c259f2f2e66571bea769a044321cd8
+SHA256:015f2e779fcf8f9fe12ade962ab3091d43fe85e512379bd87ef89389dcbb3abf
+Size:704264
+Description: change your real location in any App
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationhandleDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=locationhandleDp
+Installed-Size: 1543
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Cunstuck <cunstuck@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: cunstuck
+Tag: purpose::extension, role::enduser, cydia::commercial, compatible::ios9, compatible::ios10
+Icon: file:///Applications/LocationHandle.app/AppIcon29x29@2x.png
